@@ -1,5 +1,7 @@
 # PBRP device tree for Redmi 12(fire)
 
+The device tree was taken from https://github.com/MoonL1ght-Team/android_device_xiaomi_fire
+
 <h1 align="center">
   <br>
   <a href="https://pitchblackrecovery.com"><img src="https://raw.githubusercontent.com/shovon668/xda-template/r3/pbrp3-banner-xda.png" alt="Welcome to PitchBlack Recovery Project 👋" width="600"></a>
